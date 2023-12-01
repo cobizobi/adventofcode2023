@@ -1,0 +1,55 @@
+{
+  "name": "Puzzle1",
+  "description": "(this project was created automatically from file E:\\GitHub\\adventofcode2023\\1\\Puzzle1.mch)",
+  "machines": [
+    {
+      "name": "Puzzle1",
+      "description": "",
+      "location": "Puzzle1.mch",
+      "lastUsedPreferenceName": "default",
+      "temporalFormulas": [],
+      "ltlPatterns": [],
+      "symbolicCheckingFormulas": [],
+      "symbolicAnimationFormulas": [],
+      "testCases": [],
+      "traces": [],
+      "modelcheckingItems": [],
+      "proofObligationItems": [],
+      "simulations": [],
+      "visBVisualisation": null,
+      "historyChartItems": [],
+      "dotVisualizationItems": {},
+      "tableVisualizationItems": {}
+    },
+    {
+      "name": "Puzzle2",
+      "description": "",
+      "location": "Puzzle2.mch",
+      "lastUsedPreferenceName": "default",
+      "temporalFormulas": [],
+      "ltlPatterns": [],
+      "symbolicCheckingFormulas": [],
+      "symbolicAnimationFormulas": [],
+      "testCases": [],
+      "traces": [],
+      "modelcheckingItems": [],
+      "proofObligationItems": [],
+      "simulations": [],
+      "visBVisualisation": null,
+      "historyChartItems": [],
+      "dotVisualizationItems": {},
+      "tableVisualizationItems": {}
+    }
+  ],
+  "requirements": [],
+  "preferences": [],
+  "metadata": {
+    "fileType": "Project",
+    "formatVersion": 38,
+    "savedAt": "2023-12-01T13:47:23.057775300Z",
+    "creator": "User",
+    "proB2KernelVersion": "4.12.3-SNAPSHOT",
+    "proBCliVersion": null,
+    "modelName": null
+  }
+}
