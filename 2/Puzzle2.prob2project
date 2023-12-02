@@ -1,0 +1,55 @@
+{
+  "name": "Puzzle2",
+  "description": "",
+  "machines": [
+    {
+      "name": "Puzzle21",
+      "description": "",
+      "location": "Puzzle21.mch",
+      "lastUsedPreferenceName": "default",
+      "temporalFormulas": [],
+      "ltlPatterns": [],
+      "symbolicCheckingFormulas": [],
+      "symbolicAnimationFormulas": [],
+      "testCases": [],
+      "traces": [],
+      "modelcheckingItems": [],
+      "proofObligationItems": [],
+      "simulations": [],
+      "visBVisualisation": null,
+      "historyChartItems": [],
+      "dotVisualizationItems": {},
+      "tableVisualizationItems": {}
+    },
+    {
+      "name": "Puzzle22",
+      "description": "",
+      "location": "Puzzle22.mch",
+      "lastUsedPreferenceName": "default",
+      "temporalFormulas": [],
+      "ltlPatterns": [],
+      "symbolicCheckingFormulas": [],
+      "symbolicAnimationFormulas": [],
+      "testCases": [],
+      "traces": [],
+      "modelcheckingItems": [],
+      "proofObligationItems": [],
+      "simulations": [],
+      "visBVisualisation": null,
+      "historyChartItems": [],
+      "dotVisualizationItems": {},
+      "tableVisualizationItems": {}
+    }
+  ],
+  "requirements": [],
+  "preferences": [],
+  "metadata": {
+    "fileType": "Project",
+    "formatVersion": 38,
+    "savedAt": "2023-12-02T16:08:40.595225300Z",
+    "creator": "User",
+    "proB2KernelVersion": "4.12.3-SNAPSHOT",
+    "proBCliVersion": null,
+    "modelName": null
+  }
+}
